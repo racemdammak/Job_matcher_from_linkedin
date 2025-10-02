@@ -55,4 +55,4 @@ This project scrapes job postings from LinkedIn based on job title and location,
 
 ## Author
 
-Yasmine (based on the greeting in the notebook)
+Yasmine & Racem
