@@ -53,6 +53,6 @@ This project scrapes job postings from LinkedIn based on job title and location,
 - The CV file path is hardcoded; modify as needed.
 - This is for educational purposes; respect LinkedIn's terms of service.
 
-## Author
+## Authors
 
 Yasmine & Racem
